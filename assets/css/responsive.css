@@ -1,0 +1,71 @@
+/* PC */
+@media (min-width: 1224px) {
+   
+  
+
+
+}
+
+@media (min-width:1124px) and (max-width:1224px ) {
+
+    .sider_tables {
+        top: 80rem;
+    }
+
+    .slider-container {
+        position: relative;
+    background-image: url(../img/slider.jpg);
+    background-size: cover;
+    height: 170vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+
+
+}
+
+@media (min-width:1024) and (max-width:1124px ) {
+
+    .sider_tables {
+        top: 80rem;
+    }
+
+    .slider-container {
+        position: relative;
+    background-image: url(../img/slider.jpg);
+    background-size: cover;
+    height: 170vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+
+
+}
+
+/* Tablet */
+@media (min-width:740px) and (max-width:1024px ) {
+
+    .sider_tables {
+        top: 80rem;
+    }
+
+
+}
+
+
+
+
+ /* Mobile */
+
+ @media (max-width:739px ){
+    
+    .sider_tables {
+        top: 50rem;
+    }
+  
+}
+
+
+

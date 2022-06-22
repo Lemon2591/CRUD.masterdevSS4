@@ -1,0 +1,30 @@
+:root{
+    --white-color: #fff;
+    --back-color: #000;
+    --text-color: #333;
+    --header-height: 120px;
+    --header__navbar-height: 41px;
+    --header-with-seach-height: calc(var(--header-height) - var(--header__navbar-height));
+}
+*{
+    box-sizing: inherit;
+    margin: 0;
+}
+
+html{
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #313f5f;
+    box-sizing: border-box;
+    
+}
+input:focus {
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
